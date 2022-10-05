@@ -28,9 +28,8 @@ export default function UserList() {
           </VStack>
           <Flex mt="8" justify="flex-end">
             <HStack spacing="4">
-                <Button colorScheme="whiteAlpha">Cancelar</Button>
-                <Button colorScheme="pink">Salvar</Button>
-
+              <Button colorScheme="whiteAlpha">Cancelar</Button>
+              <Button colorScheme="pink">Salvar</Button>
             </HStack>
           </Flex>
         </Box>
