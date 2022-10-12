@@ -24,7 +24,6 @@ export function ActiveLink ({children, shouldMathExectHref = false, ...rest}: Ac
 
   }
 
-
   return (
     <Link {...rest}>
       {cloneElement(children, {
